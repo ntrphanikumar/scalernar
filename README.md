@@ -1,0 +1,2 @@
+# scalernar
+Scala learner project
