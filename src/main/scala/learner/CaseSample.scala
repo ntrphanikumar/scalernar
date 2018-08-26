@@ -16,6 +16,7 @@ object CaseSample {
     }
     
     println(alice, alice.name, alice.age)
+    new McYong().ringon(); 
   }
   case class Person(name: String, age: Int)
 }
